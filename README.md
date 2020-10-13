@@ -32,7 +32,7 @@ All the details regarding how and where to contribute is mentioned over here:
 Every Contributor have to sign [Open-Source-license By Google CLA](https://cla.developers.google.com/clas) first before the contribution.
 
 As you done with the signing just remember the follwoing points : 
-```
+```'
 1.) Dont copy and paste code from others or any other sites , copying will not lead you anywhere
 2.) Be respectful and helpful to others 
 3.) You have to always keep your Repo's private 
