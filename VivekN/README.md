@@ -4,4 +4,4 @@
 
 1. Day-1 : Demo calendar program
 
-2. Day-2 : Temperature convert and multiplication table program
+2. Day-2 : Temperature convert, multiplication table, text to speech, find integral program
